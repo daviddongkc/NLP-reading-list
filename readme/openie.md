@@ -31,6 +31,7 @@
 - 2018 ICCL: **Graphene: Semantically-Linked Propositions in Open Information Extraction**, [paper](https://www.aclweb.org/anthology/C18-1195), [bibtex](/Bibtex/openie/Graphene.bib), [code](https://github.com/Lambda-3/Graphene).
 - 2017 EMNLP: **MinIE: Minimizing Facts in Open Information Extraction**, [paper](https://www.aclweb.org/anthology/D17-1278), [bibtex](/Bibtex/openie/MinIE.bib), [code](https://github.com/uma-pi1/minie).
 - 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006), [bibtex](/Bibtex/openie/nestie.bib), [talk](https://vimeo.com/239245885).
+- 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and Downstream Applications**, [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib), [bibtex](/Bibtex/openie/openie_survey_downstream.bib), [code](https://github.com/knowitall/openie).
 - 2015 ACL: **(Stanford OpenIE) Leveraging Linguistic Structure For Open Domain Information Extraction**, [paper](https://www.aclweb.org/anthology/P15-1034), [bibtex](/Bibtex/openie/stanford_oie.bib), [code](https://github.com/philipperemy/stanford-openie-python).
 - 2013 IEEE-ICSC: **(CSD-IE) Open Information Extraction via Contextual Sentence Decomposition**, [paper](https://doi.org/10.1109/ICSC.2013.36), [bibtex](/Bibtex/openie/csd-ie.bib).
 - 2013 WWW: **ClausIE: clause-based open information extraction**, [paper](https://doi.org/10.1145/2488388.2488420), [bibtex](/Bibtex/openie/clausie.bib), [code](https://github.com/AnthonyMRios/pyclausie).
@@ -45,5 +46,5 @@
 - 2020 EMNLP Workshop: **On Aligning OpenIE Extractions with Knowledge Bases: A Case Study**, [paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14), [bibtex](/Bibtex/openie/KB_openie.bib).
 - 2018 ESWA: **OpenIE-based approach for Knowledge Graph construction from text**, [paper](https://doi.org/10.1016/j.eswa.2018.07.017), [bibtex](/Bibtex/openie/kg_construction_openie.bib).
 - 2017 ACL: **Answering Complex Questions Using Open Information Extraction**, [paper](https://www.aclweb.org/anthology/P17-2049), [bibtex](/Bibtex/openie/QA_openie.bib).
-- 2016 IJCAI: **Open Information Extraction Systems and Downstream Applications**, [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib), [bibtex](/Bibtex/openie/openie_survey_downstream.bib).
+- 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and Downstream Applications**, [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib), [bibtex](/Bibtex/openie/openie_survey_downstream.bib), [code](https://github.com/knowitall/openie).
 - 2015 ACL: **Open IE as an Intermediate Structure for Semantic Tasks**, [paper](https://www.aclweb.org/anthology/P15-2050), [bibtex](/Bibtex/openie/semantic_openie.bib).
