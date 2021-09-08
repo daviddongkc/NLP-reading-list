@@ -9,6 +9,7 @@
 - 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and Downstream Applications**, [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib), [bibtex](/Bibtex/openie/openie_survey_downstream.bib), [code](https://github.com/knowitall/openie).
 
 ## Datasets and Evaluation:
+- 2021 EACL: **LSOIE: A Large-Scale Dataset for Supervised Open Information Extraction**, [paper](https://aclanthology.org/2021.eacl-main.222/), [bibtex](/Bibtex/openie/lsoie.bib), [data/code](https://github.com/Jacobsolawetz/large-scale-oie).
 - 2021 ACL Findings: **DocOIE: A Document-level Context-Aware Dataset for OpenIE**, [paper](https://aclanthology.org/2021.findings-acl.210), [bibtex](/Bibtex/openie/DocOIE.bib), [data/code](https://github.com/daviddongkc/DocOIE).
 - 2019 EMNLP: **CaRB: A Crowdsourced Benchmark for Open IE**, [paper](https://www.aclweb.org/anthology/D19-1651), [bibtex](/Bibtex/openie/carb.bib), [data/code](https://github.com/dair-iitd/CaRB).
 - 2019 ACL Workshop: **WiRe57 : A Fine-Grained Benchmark for Open Information Extraction**, [paper](https://www.aclweb.org/anthology/W19-4002), [bibtex](/Bibtex/openie/wire57.bib), [data/code](https://github.com/rali-udem/WiRe57).
@@ -61,7 +62,7 @@
 - 2020 EMNLP Workshop: **On Aligning OpenIE Extractions with Knowledge Bases: A Case Study**, [paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14), [bibtex](/Bibtex/openie/KB_openie.bib).
 - 2020 Applied Sciences: **A Methodology for Open Information Extraction and Representation from Large Scientific Corpora: The CORD-19 Data Exploration Use Case**, [paper](https://www.mdpi.com/2076-3417/10/16/5630), [bibtex](/Bibtex/openie/large_sci_corpora_oie.bib), [data](https://github.com/lighteternal/CORD-19-OIE-triple-extraction).
 - 2020 CoDS-COMAD: **Co-Clustering Triples from Open Information Extraction**, [paper](https://dl.acm.org/doi/10.1145/3371158.3371183), [bibtex](/Bibtex/openie/cluster_oie.bib).
-- 2018 AAAI: **Assertion-based QA with Question-Aware Open Information Extraction**, [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16705), [bibtex](/Bibtex/openie/asertion_QA_oie.bib), [code](？？).
+- 2018 AAAI: **Assertion-based QA with Question-Aware Open Information Extraction**, [paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16705), [bibtex](/Bibtex/openie/asertion_QA_oie.bib).
 - 2018 ESWA: **OpenIE-based approach for Knowledge Graph construction from text**, [paper](https://doi.org/10.1016/j.eswa.2018.07.017), [bibtex](/Bibtex/openie/kg_construction_openie.bib).
 - 2017 ACL: **Answering Complex Questions Using Open Information Extraction**, [paper](https://www.aclweb.org/anthology/P17-2049), [bibtex](/Bibtex/openie/QA_openie.bib).
 - 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and Downstream Applications**, [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib), [bibtex](/Bibtex/openie/openie_survey_downstream.bib), [code](https://github.com/knowitall/openie).
