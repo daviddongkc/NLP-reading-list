@@ -159,6 +159,22 @@
   [paper](https://dl.acm.org/doi/10.1145/1999676.1999697),
   [bibtex](/Bibtex/openie/srl_openie.bib).
 
+# N-ary Open IE:
+- 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information
+  Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
+  [bibtex](/Bibtex/openie/nestie.bib),
+  [video](https://vimeo.com/239245885).
+- 2012 AKBC-WEKEX: **KrakeN: N-ary Facts in Open Information
+  Extraction**, [paper](https://www.aclweb.org/anthology/W12-3010),
+  [bibtex](/Bibtex/openie/KrakeN.bib).
+- 2011 CIDR: **Longitudinal Analytics on Web Archive Data: It’s About
+  Time!**, [paper](https://cedric.cnam.fr/fichiers/art_2090.pdf),
+  [bibtex](/Bibtex/openie/lawa.bib).
+- 2010 AAAI: **Temporal Information Extraction**,
+  [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewPaper/1805),
+  [bibtex](/Bibtex/openie/temperal_ie.bib).
+
+
 ## Non-neural Models:
 
 - 2018 COLING: **(CALMIE) Open Information Extraction from Conjunctive
@@ -183,10 +199,6 @@
   Extraction**, [paper](https://www.aclweb.org/anthology/D17-1278),
   [bibtex](/Bibtex/openie/MinIE.bib),
   [code](https://github.com/uma-pi1/minie).
-- 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information
-  Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
-  [bibtex](/Bibtex/openie/nestie.bib),
-  [video](https://vimeo.com/239245885).
 - 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and
   Downstream Applications**,
   [paper](https://dblp.org/rec/conf/ijcai/Mausam16.bib),
@@ -197,6 +209,9 @@
   [paper](https://www.aclweb.org/anthology/P15-1034),
   [bibtex](/Bibtex/openie/stanford_oie.bib),
   [code](https://github.com/philipperemy/stanford-openie-python).
+- 2014 EMNLP: **ReNoun: Fact Extraction for Nominal Attributes**,
+  [paper](https://aclanthology.org/D14-1038/),
+  [bibtex](/Bibtex/openie/renoun.bib).
 - 2013 IEEE-ICSC: **(CSD-IE) Open Information Extraction via Contextual
   Sentence Decomposition**,
   [paper](https://doi.org/10.1109/ICSC.2013.36),
@@ -205,9 +220,7 @@
   [paper](https://doi.org/10.1145/2488388.2488420),
   [bibtex](/Bibtex/openie/clausie.bib),
   [code](https://github.com/AnthonyMRios/pyclausie).
-- 2012 AKBC-WEKEX: **KrakeN: N-ary Facts in Open Information
-  Extraction**, [paper](https://www.aclweb.org/anthology/W12-3010),
-  [bibtex](/Bibtex/openie/KrakeN.bib).
+
 - 2012 EMNLP: **(Ollie) Open Language Learning for Information
   Extraction**, [paper](https://www.aclweb.org/anthology/D12-1048),
   [bibtex](/Bibtex/openie/ollie.bib),
