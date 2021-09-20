@@ -251,14 +251,14 @@
 
 ### 3. Ensemble:
 - 2018 : **OpenIE 5.1**,
-  [paper-CALMIE](https://aclanthology.org/C18-1194/),
-  [bibtex-CALMIE](/Bibtex/openie/calm_oie.bib),
-  [paper-BONIE](https://aclanthology.org/P17-2050/),
-  [bibtex-BONIE](/Bibtex/openie/BONIE.bib).
-  [paper-RelNoun](https://aclanthology.org/W16-1307/),
-  [bibtex-RelNoun](/Bibtex/openie/relnoun.bib).
-  [paper-SRLIE](https://dl.acm.org/doi/10.1145/1999676.1999697),
-  [bibtex-SRLIE](/Bibtex/openie/srl_openie.bib).
+  paper:([CALMIE](https://aclanthology.org/C18-1194/)
+  [BONIE](https://aclanthology.org/P17-2050/)
+  [RelNoun](https://aclanthology.org/W16-1307/)
+  [SRLIE](https://dl.acm.org/doi/10.1145/1999676.1999697)),
+  bibtex:([CALMIE](/Bibtex/openie/calm_oie.bib)
+  [BONIE](/Bibtex/openie/BONIE.bib)
+  [RelNoun](/Bibtex/openie/relnoun.bib)
+  [SRLIE](/Bibtex/openie/srl_openie.bib)),
   [code](https://github.com/dair-iitd/OpenIE-standalone).
 
 - 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and
