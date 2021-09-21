@@ -6,7 +6,9 @@
 
 
 ## Survey Papers:
-
+- 2019 IJCI: **A Review of Open Information Extraction Techniques**,
+  [paper](https://ijci.journals.ekb.eg/article_35099.html),
+  [bibtex](/Bibtex/openie/2019_oie_review.bib).
 - 2018 COLING: **A Survey on Open Information Extraction**,
   [paper](https://www.aclweb.org/anthology/C18-1326),
   [bibtex](/Bibtex/openie/open_survey_tradtional.bib).
@@ -232,6 +234,10 @@
 
 
 ### 3. Ensemble:
+- 2019 Comput. Informatics: **(SDE-OIE) A New Open Information
+  Extraction System Using Sentence Difficulty Estimation**,
+  [paper](http://www.cai2.sk/ojs/index.php/cai/article/view/2019_4_986),
+  [bibtex](/Bibtex/openie/SDE-OIE.bib), [code](https://github.com/VahidehRt/SDE-OIE).
 - 2018 : **OpenIE 5.1**,
   paper:([CALMIE](https://aclanthology.org/C18-1194/)
   [BONIE](https://aclanthology.org/P17-2050/)
@@ -242,13 +248,11 @@
   [RelNoun](/Bibtex/openie/relnoun.bib)
   [SRLIE](/Bibtex/openie/srl_openie.bib)),
   [code](https://github.com/dair-iitd/OpenIE-standalone).
-
 - 2016 IJCAI: **(OpenIE4) Open Information Extraction Systems and
   Downstream Applications**,
   [paper](https://www.ijcai.org/Proceedings/16/Papers/604.pdf),
   [bibtex](/Bibtex/openie/openie_survey_downstream.bib),
   [code](https://github.com/knowitall/openie).
-
 - 2015 PhD thesis: **(Efficiens) Extracting Information Networks from
   Text**,
   [paper](https://era.library.ualberta.ca/items/f4fae788-a430-4f35-a0f1-de2ec9fe6685),
@@ -259,6 +263,10 @@
   Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
   [bibtex](/Bibtex/openie/nestie.bib),
   [video](https://vimeo.com/239245885).
+- 2015 PhD thesis: **(Efficiens) Extracting Information Networks from
+  Text**,
+  [paper](https://era.library.ualberta.ca/items/f4fae788-a430-4f35-a0f1-de2ec9fe6685),
+  [bibtx](/Bibtex/openie/Efficiens.bib)
 - 2013 EMNLP: **(EXEMPLAR) Effectiveness and Efficiency of Open Relation
   Extraction**, [paper](https://aclanthology.org/D13-1043/),
   [bibtex](/Bibtex/openie/EXEMPLAR.bib).
