@@ -171,7 +171,7 @@
 - 2014 EMNLP: **ReNoun: Fact Extraction for Nominal Attributes**,
   [paper](https://aclanthology.org/D14-1038/),
   [bibtex](/Bibtex/openie/renoun.bib).
-- 2012 EMNLP: **(Ollie) Open Language Learning for Information
+- 2012 EMNLP: **(OLLIE) Open Language Learning for Information
   Extraction**, [paper](https://www.aclweb.org/anthology/D12-1048),
   [bibtex](/Bibtex/openie/ollie.bib),
   [code](https://github.com/knowitall/ollie).
@@ -259,6 +259,11 @@
   [bibtx](/Bibtex/openie/Efficiens.bib)
 
 ## N-ary Open IE:
+- 2021 EACL: **LSOIE: A Large-Scale Dataset for Supervised Open
+  Information Extraction**,
+  [paper](https://aclanthology.org/2021.eacl-main.222/),
+  [bibtex](/Bibtex/openie/lsoie.bib),
+  [data/code](https://github.com/Jacobsolawetz/large-scale-oie).
 - 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information
   Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
   [bibtex](/Bibtex/openie/nestie.bib),
