@@ -155,27 +155,6 @@
 <!--  [bibtex](/Bibtex/openie/vae_openie.bib).-->
 
 
-## N-ary Open IE:
-- 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information
-  Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
-  [bibtex](/Bibtex/openie/nestie.bib),
-  [video](https://vimeo.com/239245885).
-- 2012 AKBC-WEKEX: **KrakeN: N-ary Facts in Open Information
-  Extraction**, [paper](https://www.aclweb.org/anthology/W12-3010),
-  [bibtex](/Bibtex/openie/KrakeN.bib).
-- 2011 K-CAP: **(SRLIE) An analysis of open information extraction based on
-  semantic role labeling**,
-  [paper](https://dl.acm.org/doi/10.1145/1999676.1999697),
-  [bibtex](/Bibtex/openie/srl_openie.bib).
-- 2011 CIDR: **Longitudinal Analytics on Web Archive Data: It’s About
-  Time!**, [paper](https://cedric.cnam.fr/fichiers/art_2090.pdf),
-  [bibtex](/Bibtex/openie/lawa.bib).
-- 2010 AAAI: **Temporal Information Extraction**,
-  [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewPaper/1805),
-  [bibtex](/Bibtex/openie/temperal_ie.bib).
-
-
-
 
 ## Non-neural Models:
 ### 1. Learning-Based Models:
@@ -240,6 +219,9 @@
   Sentence Decomposition**,
   [paper](https://doi.org/10.1109/ICSC.2013.36),
   [bibtex](/Bibtex/openie/csd-ie.bib).
+- 2013 EMNLP: **(EXEMPLAR) Effectiveness and Efficiency of Open Relation
+  Extraction**, [paper](https://aclanthology.org/D13-1043/),
+  [bibtex](/Bibtex/openie/EXEMPLAR.bib).
 - 2013 WWW: **ClausIE: clause-based open information extraction**,
   [paper](https://doi.org/10.1145/2488388.2488420),
   [bibtex](/Bibtex/openie/clausie.bib),
@@ -267,11 +249,49 @@
   [bibtex](/Bibtex/openie/openie_survey_downstream.bib),
   [code](https://github.com/knowitall/openie).
 
+- 2015 PhD thesis: **(Efficiens) Extracting Information Networks from
+  Text**,
+  [paper](https://era.library.ualberta.ca/items/f4fae788-a430-4f35-a0f1-de2ec9fe6685),
+  [bibtx](/Bibtex/openie/Efficiens.bib)
+
+## N-ary Open IE:
+- 2016 EMNLP: **(NESTIE) Nested Propositions in Open Information
+  Extraction**, [paper](https://www.aclweb.org/anthology/D16-1006),
+  [bibtex](/Bibtex/openie/nestie.bib),
+  [video](https://vimeo.com/239245885).
+- 2013 EMNLP: **(EXEMPLAR) Effectiveness and Efficiency of Open Relation
+  Extraction**, [paper](https://aclanthology.org/D13-1043/),
+  [bibtex](/Bibtex/openie/EXEMPLAR.bib).
+- 2013 WWW: **ClausIE: clause-based open information extraction**,
+  [paper](https://doi.org/10.1145/2488388.2488420),
+  [bibtex](/Bibtex/openie/clausie.bib),
+  [code](https://github.com/AnthonyMRios/pyclausie).
+- 2012 AKBC-WEKEX: **KrakeN: N-ary Facts in Open Information
+  Extraction**, [paper](https://www.aclweb.org/anthology/W12-3010),
+  [bibtex](/Bibtex/openie/KrakeN.bib).
+- 2011 K-CAP: **(SRLIE) An analysis of open information extraction based on
+  semantic role labeling**,
+  [paper](https://dl.acm.org/doi/10.1145/1999676.1999697),
+  [bibtex](/Bibtex/openie/srl_openie.bib).
+- 2011 CIDR: **Longitudinal Analytics on Web Archive Data: It’s About
+  Time!**, [paper](https://cedric.cnam.fr/fichiers/art_2090.pdf),
+  [bibtex](/Bibtex/openie/lawa.bib).
+- 2010 AAAI: **Temporal Information Extraction**,
+  [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewPaper/1805),
+  [bibtex](/Bibtex/openie/temperal_ie.bib).
 
 
+## Semi-Open Information Extraction
 
-
-
+- 2021 WWW: **Semi-Open Information Extraction**,
+  [paper](https://dl.acm.org/doi/10.1145/3442381.3450029),
+  [bibtex](/Bibtex/openie/soie.bib),
+  [code](https://github.com/yubowen-ph/SOIE).
+- 2020 ACL: **(FOBIE) In Layman’s Terms: Semi-Open Relation Extraction
+  from Scientific Texts**,
+  [paper](https://aclanthology.org/2020.acl-main.137/),
+  [bibtex](/Bibtex/openie/FOBIE.bib),
+  [code](https://github.com/rubenkruiper/FOBIE).
 
 
 ## Downstream Applications
@@ -309,15 +329,5 @@
   [bibtex](/Bibtex/openie/semantic_openie.bib).
 
 
-## Semi-Open Information Extraction
 
-- 2021 WWW: **Semi-Open Information Extraction**,
-  [paper](https://dl.acm.org/doi/10.1145/3442381.3450029),
-  [bibtex](/Bibtex/openie/soie.bib),
-  [code](https://github.com/yubowen-ph/SOIE).
-- 2020 ACL: **(FOBIE) In Layman’s Terms: Semi-Open Relation Extraction
-  from Scientific Texts**,
-  [paper](https://aclanthology.org/2020.acl-main.137/),
-  [bibtex](/Bibtex/openie/FOBIE.bib),
-  [code](https://github.com/rubenkruiper/FOBIE).
 
