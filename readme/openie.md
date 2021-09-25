@@ -1,4 +1,4 @@
-# Open Information Extraction
+# Open Information Extraction (OpenIE)
 
 <!--
 - 20xx ??: **??**, [paper](??), [bibtex](/Bibtex/openie/？？.bib), [code](？？).
