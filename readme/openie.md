@@ -66,6 +66,27 @@
   [video](https://vimeo.com/239251034).
 
 
+## New
+- 2021 EMNLP: **(RoCORE) A Relation-Oriented Clustering Method for Open
+  Relation Extraction**, [paper](https://arxiv.org/abs/2109.07205),
+  [code](https://github.com/Ac-Zyx/RoCORE).
+- 2021 EMNLP: **Maximal Clique Based Non-Autoregressive Open Information
+  Extraction**.
+- 2021 KDD-MLF: **Zero-Shot Open Information Extraction using Question
+  Generation and Reading Comprehension**,
+  [paper](https://arxiv.org/abs/2109.08079),
+  [code](https://github.com/him1411/edgar10q-dataset).
+- 2021 Arxiv: **BenchIE: Open Information Extraction Evaluation Based on
+  Facts, Not Tokens**, [paper](https://arxiv.org/abs/2109.06850),
+  [code](https://github.com/gkiril/benchie).
+- 2021 Arxiv: **AnnIE: An Annotation Platform for Constructing Complete
+  Open Information Extraction Benchmark**,
+  [paper](https://arxiv.org/abs/2109.07464),
+  [code](https://github.com/nfriedri/annie-annotation-platform).
+- 2020 Arxiv: **Tag and Correct: Question aware Open Information
+  Extraction with Two-stage Decoding**,
+  [paper](https://arxiv.org/pdf/2009.07406.pdf).
+
 
 ## Neural Models
 
@@ -294,6 +315,7 @@
   [bibtex](/Bibtex/openie/temperal_ie.bib).
 
 
+
 ## Semi-Open Information Extraction
 
 - 2021 WWW: **Semi-Open Information Extraction**,
@@ -308,7 +330,10 @@
 
 
 ## Downstream Applications
-
+- 2021 ACL: **CoRI: Collective Relation Integration with Data
+  Augmentation for Open Information Extraction**,
+  [paper](https://aclanthology.org/2021.acl-long.363/),
+  [bibtex](/Bibtex/openie/CoRI_openie.bib).
 - 2020 EMNLP Workshop: **On Aligning OpenIE Extractions with Knowledge
   Bases: A Case Study**,
   [paper](https://www.aclweb.org/anthology/2020.eval4nlp-1.14),

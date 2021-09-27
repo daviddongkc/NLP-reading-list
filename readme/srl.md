@@ -43,6 +43,11 @@
   [paper](https://aclanthology.org/D19-1056/),
   [bibtex](/Bibtex/srl/enc_dec_srl.bib),
   [code](https://github.com/Heidelberg-NLP/SRL-S2S).
+- 2020 ACL: **Structured Tuning for Semantic Role Labeling**,
+  [paper](https://aclanthology.org/2020.acl-main.744/),
+  [bibtex](/Bibtex/srl/structured_tuning_srl.bib),
+  [code](https://github.com/utahnlp/structured_tuning_srl),
+  [video](http://slideslive.com/38929153).
 - 2020 EMNLP Findings: **High-order Semantic Role Labeling**,
   [paper](https://aclanthology.org/2020.findings-emnlp.102/),
   [bibtex](/Bibtex/srl/high-order_srl.bib),
@@ -62,3 +67,13 @@
   [paper](https://doi.org/10.24963/ijcai.2021/521),
   [bibtex](/Bibtex/srl/GSRL.bib),
   [code](https://github.com/SapienzaNLP/gsrl).
+- 2021 ACL Findings: **(HUM-QQ) Inducing Semantic Roles Without
+  Syntax**, [paper](https://aclanthology.org/2021.findings-acl.389/),
+  [bibtex](/Bibtex/srl/HUM-QQ.bib),
+  [code](https://github.com/julianmichael/qasrl-roles).
+- 2021 ACL Findings: **(HeSyFu) Better Combine Them Together! Integrating
+  Syntactic Constituency and Dependency Representations for Semantic
+  Role Labeling**,
+  [paper](https://aclanthology.org/2021.findings-acl.49/),
+  [bibtex](/Bibtex/srl/HeSyFu.bib),
+  [code](https://github.com/scofield7419/HeSyFu).
