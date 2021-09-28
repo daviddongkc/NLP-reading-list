@@ -1,4 +1,4 @@
-# Open Information Extraction (OpenIE)
+ # Open Information Extraction (OpenIE)
 
 <!--
 - 20xx ??: **??**, [paper](??), [bibtex](/Bibtex/openie/？？.bib), [code](？？).
@@ -72,6 +72,10 @@
   [code](https://github.com/Ac-Zyx/RoCORE).
 - 2021 EMNLP: **Maximal Clique Based Non-Autoregressive Open Information
   Extraction**.
+- 2021 EMNLP: **Zero-Shot Information Extraction as a Unified
+  Text-to-Triple Translation**,
+  [paper](https://arxiv.org/abs/2109.11171),
+  [code](https://github.com/cgraywang/deepex).
 - 2021 KDD-MLF: **Zero-Shot Open Information Extraction using Question
   Generation and Reading Comprehension**,
   [paper](https://arxiv.org/abs/2109.08079),
